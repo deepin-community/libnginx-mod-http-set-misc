@@ -12,7 +12,8 @@ Copyright: 2009-2018, Yichun Zhang (章亦春) <agentzh@gmail.com>, OpenResty In
 License: BSD-2-clause
 
 Files: debian/*
-Copyright: 2022, Jérémy Lal <kapouer@melix.org>
+Copyright: 2022, Jérémy Lal <kapouer@melix.org>,
+ 2022-2025, Jan Mojzis <janmojzis@debian.org>
 License: BSD-2-clause
 
 Files: src/*
