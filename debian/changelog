@@ -1,3 +1,12 @@
+libnginx-mod-http-set-misc (0.33-6) unstable; urgency=medium
+
+  * Team upload.
+  * d/control: bump Standards-Version: 4.7.2, no changes
+  * d/watch: use more generic template
+  * d/copyright: bump debian/* copyright year
+
+ -- Jan Mojžíš <janmojzis@debian.org>  Sat, 12 Apr 2025 09:05:50 +0200
+
 libnginx-mod-http-set-misc (0.33-5) unstable; urgency=medium
 
   * Team upload.
